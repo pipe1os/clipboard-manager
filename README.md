@@ -94,4 +94,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## License
 
-[MIT License](https://github.com/pipe1os/clipboard-manager/blob/main/LICENSE))
+[MIT License](https://github.com/pipe1os/clipboard-manager/blob/main/LICENSE)
