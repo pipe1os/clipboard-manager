@@ -4,6 +4,10 @@ A simple Windows utility built with Python and CustomTkinter that monitors your 
 
 ![Screenshot](./screenshot.png)
 
+## Download
+
+Go to releases and download the latest version: [Releases](https://github.com/pipe1os/clipboard-manager/releases)
+
 ## Features
 
 - **Automatic Clipboard Monitoring:** Runs in the background and listens for new text copied to the clipboard.
